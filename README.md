@@ -24,4 +24,5 @@ I'll define a new Perceptron class with four methods:
 3.   **net_input: ** Used to calculate the sum of input and weight
 4.   **predict: ** Used to predict the class using Unit step function
 
-5.   Finally, I'll test the Perceptron model using iris dataset downloaded from UCI Repository
+   
+Finally, I'll test the Perceptron model using iris dataset downloaded from UCI Repository
